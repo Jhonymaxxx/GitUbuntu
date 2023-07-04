@@ -1,0 +1,20 @@
+.linhas{
+    list-style:upper-roman;
+    font-size: 40px;
+    color: brown;
+    margin: 10px;
+    width: fit-content
+    
+}
+.linhas li:nth-child(odd){
+    background-color: chocolate;
+   
+}
+
+.linhas li:nth-child(even){
+    background-color: rgb(112, 21, 148);
+   
+}
+.linhas li:hover{
+    font-weight: bolder;
+}

@@ -1,0 +1,39 @@
+ul li {
+    padding: 5px;
+    background-color: aquamarine;
+    margin: 5px 0;
+}
+
+
+.input[type="text"] {
+    width: 30%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid
+}
+
+
+.botao{
+    display: block;
+    width: 20%;
+    padding: 10px 15px;
+    border: 0;
+    background-color: blue;
+    color: chartreuse;
+    border-radius: 5px;
+    margin: 5px 0;
+
+}
+.fundo-hover{
+    background: rgb(8, 97, 133);
+    color:cornsilk;
+    padding: 5px;
+    margin: 5px;
+}
+.problema{
+    background: brown;
+    color: bisque;
+    padding: 5px;
+    margin: 5px;
+}
